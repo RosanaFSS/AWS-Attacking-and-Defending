@@ -7,4 +7,4 @@
 ✅ &nbsp; 🚩 &nbsp; [IAM Permissions](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/2-Introduction-to-IAM/3%20.%20Medium%20%F0%9F%9A%A9%20-%20IAM%20Permissions.md)<br>
 ✅ &nbsp; 🚩 &nbsp; [IAM Credentials](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/2-Introduction-to-IAM/4%20.%20Medium%20%F0%9F%9A%A9%20-%20IAM%20Credentials.md)<br>
 ✅ &nbsp; 🔗 &nbsp; [The Quest of Least Privilege](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/2-Introduction-to-IAM/5%20.%20Medium%20%F0%9F%94%97%20-%20The%20Quest%20for%20Least%20Privilege.md)<br>
-✅ &nbsp; 🔗 &nbsp; STS Credentials Lab<br>
+✅ &nbsp; 🔗 &nbsp; [STS Credentials Lab](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/2-Introduction-to-IAM/6%20.%20Medium%20%F0%9F%94%97%20-%20STS%20Credentials%20Lab.md)<br>
