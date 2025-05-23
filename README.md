@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">1 .Introduction to AWS</h2>
+<h2 align="center">1 . Introduction to AWS</h2>
 <p  align="center">Learn about the unique characteristics associated with cloud technologies and core fundamentals required to use AWS.</p>
 
 ✅ &nbsp; 🔗 &nbsp; AWS: Cloud 101<br>
