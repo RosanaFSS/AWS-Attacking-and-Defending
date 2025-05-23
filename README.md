@@ -3,4 +3,4 @@
 <p align="center">Learn about the unique characteristics associated with cloud technologies and core fundamentals required to use AWS.</p>
 
 ✅ &nbsp; 🔗 &nbsp; [AWS: Cloud 101](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/1-Introduction-to-AWS/1%20.%20Info%20%E2%84%B9%EF%B8%8F%20-.%20AWS%3A%20Cloud%20101.md)<br>
-✅ &nbsp; 🔗 &nbsp; AWS Basic Concepts<br>
+✅ &nbsp; 🔗 &nbsp; [AWS Basic Concepts](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/1-Introduction-to-AWS/2%20.%20Easy%20%F0%9F%94%97%20-%20AWS%20Basic%20Concepts.md)<br>
