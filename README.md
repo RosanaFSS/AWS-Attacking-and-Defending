@@ -28,7 +28,7 @@
 
 ✅ &nbsp; 🔗 &nbsp; AWS S3 - Attack and Defense<br>
 ✅ &nbsp; 🔗 &nbsp; Amazon EC2 - Attack & Defense<br>
-✅ &nbsp; 🔗 &nbsp; AWS VPC - Attack and Defense<br>
+✅ &nbsp; 🚩 &nbsp; AWS VPC - Attack and Defense<br>
 🌌 &nbsp; 🚩 &nbsp; AWS VPC - Data Exfiltration<br>
 
 <br>
