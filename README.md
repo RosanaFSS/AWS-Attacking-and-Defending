@@ -46,5 +46,6 @@
 <h2 align="center">5 . IAM Privilege Escalation</h2>
 <p  align="center">Put your understanding of IAM to practice by covering key concepts required to enumerate, exploit and persist across IAM.</p>
 
-✅ &nbsp; 🔗 &nbsp; AWS IAM Enumeration<br>
-✅ &nbsp; 🔗 &nbsp; AWS IAM Initial Access<br>
+✅ &nbsp; 🔗 &nbsp; [AWS IAM Enumeration](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/5-IAM-Privilege-Escalation/1%20.%20Medium%20%F0%9F%94%97%20-%20AWS%20IAM%20Enumeration.md)<br>
+✅ &nbsp; 🔗 &nbsp; [AWS IAM Initial Access](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/5-IAM-Privilege-Escalation/2%20.%20Medium%20%F0%9F%94%97%20-%20AWS%20IAM%20Initial%20Access.md)<br>
+
