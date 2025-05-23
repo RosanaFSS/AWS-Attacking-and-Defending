@@ -1,8 +1,6 @@
 
 <h1 align="center"> $$\textcolor{#39C2F0}{\textnormal{Attacking and Defending AWS}}$$ </h1>
 
-<h6 align="center"> <img width="100px" src="https://aws.amazon.com/?nc2=h_lg">AWS</a></h6>
-
 
 <br>
 
