@@ -1,7 +1,8 @@
 
 <h1 align="center"> $$\textcolor{#39C2F0}{\textnormal{Attacking and Defending AWS}}$$ </h1>
 
-<h6 align="center"> <img width="100px" src="https://www.google.com/imgres?q=aws%20official%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F93%2FAmazon_Web_Services_Logo.svg&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AAmazon_Web_Services_Logo.svg&docid=8i-BTAdUv5LKpM&tbnid=FB3B89WhUh9TUM&vet=12ahUKEwimi5ffwbqNAxULLLkGHVg2FOAQM3oECB4QAA..i&w=800&h=479&hcb=2&ved=2ahUKEwimi5ffwbqNAxULLLkGHVg2FOAQM3oECB4QAA">Microsoft Azure</a></h6>
+<h6 align="center"> <img width="100px" src="https://aws.amazon.com/?nc2=h_lg">AWS</a></h6>
+
 
 <br>
 
