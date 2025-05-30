@@ -37,8 +37,8 @@
 <p  align="center">Serverless technologies are popular when designing infrastructure. Work with various AWS components to understand how they can be exploited.</p>
 
 ✅ &nbsp; 🔗 &nbsp; [AWS Lambda](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/4-Attacking-and-Defending-Serverless/1%20.%20Medium%20%F0%9F%94%97%20-%20AWS%20Lambda.md)<br>
-⬛ &nbsp; 🔗 &nbsp; [Lambda - Data Exfiltration](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/4-Attacking-and-Defending-Serverless/2%20.%20Medium%20%F0%9F%94%97%20-%20Lambda%20-%20Data%20Exfiltration.md)<br>
-⬛ &nbsp; 🔗 &nbsp; [AWS API Gateway](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/4-Attacking-and-Defending-Serverless/3%20.%20Medium%20%F0%9F%94%97%20-%20AWS%20API%20Gateway.md)<br>
+✅ &nbsp; 🔗 &nbsp; [Lambda - Data Exfiltration](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/4-Attacking-and-Defending-Serverless/2%20.%20Medium%20%F0%9F%94%97%20-%20Lambda%20-%20Data%20Exfiltration.md)<br>
+✅ &nbsp; 🔗 &nbsp; [AWS API Gateway](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/4-Attacking-and-Defending-Serverless/3%20.%20Medium%20%F0%9F%94%97%20-%20AWS%20API%20Gateway.md)<br>
 
 
 <br>
