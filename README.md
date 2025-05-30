@@ -1,5 +1,5 @@
 
-<h1 align="center"> $$\textcolor{#39C2F0}{\textnormal{Attacking and Defending AWS}}$$ </h1>
+<h1 align="center"> Attacking and Defending AWS </h1>
 
 
 <br>
