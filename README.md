@@ -49,3 +49,8 @@
 ✅ &nbsp; 🔗 &nbsp; [AWS IAM Enumeration](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/5-IAM-Privilege-Escalation/1%20.%20Medium%20%F0%9F%94%97%20-%20AWS%20IAM%20Enumeration.md)<br>
 ✅ &nbsp; 🔗 &nbsp; [AWS IAM Initial Access](https://github.com/RosanaFSS/AWS-Attacking-and-Defending/blob/5-IAM-Privilege-Escalation/2%20.%20Medium%20%F0%9F%94%97%20-%20AWS%20IAM%20Initial%20Access.md)<br>
 
+<br>
+
+<h1 align="center">Attacking and Defending AWS</h1>
+
+<img width="1000px" src="https://github.com/user-attachments/assets/1f5c798e-1299-4c96-a36b-b58cb9929252"></p>
